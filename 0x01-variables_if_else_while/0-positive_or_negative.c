@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - a program that will assign a random number to a variable each time it is executed
+ * main - a program that will assign a random number
+ * to a variable each time it is executed
  *
  * Return: 0
  */
